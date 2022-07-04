@@ -1,0 +1,11 @@
+body {
+  font-family: 'Akaya Telivigala', cursive;
+  background-image: linear-gradient(to right top, #a5d0f0, #c1e6ff, #E2E8DD, #83d3ff, #1db7ff);
+
+}
+
+.header_div
+  {
+  background: #95A3A4;
+  color: white; 
+  }
